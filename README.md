@@ -1,16 +1,18 @@
-### Hi there 👋
+### 🚀 Welcome to the Jparw Zone
 
-<!--
-**Jparw/Jparw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is some personal information about me:
 
-Here are some ideas to get you started:
+- 🔭 I'm British and currently studying IT at college.
+- 📖 I'm currently learning && using React.js/Next.js...
+- 🌱 Feel free to ask me any questions about my repos or directly give me an issue/pr~
+- 📫 How to reach me: hello@jparw.xyz.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Language && Tools**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://nextjs.org/static/favicon/favicon-32x32.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jparw&layout=compact&theme=buefy)](https://juejin.cn/user/96412752681079/posts)
